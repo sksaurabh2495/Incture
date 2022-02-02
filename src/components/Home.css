@@ -1,0 +1,144 @@
+.first-container{
+  margin-top: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.second-container{
+  display: flex;
+  /*flex-wrap: wrap;*/
+}
+.itm{
+  /*flex-grow: 1;*/
+  flex: 1;
+}
+.pc1{
+   width: 70%;
+}
+.wd-50{
+  width: 50%;
+}
+.t1{
+  font-size: 30px;
+}
+.t2{
+  font-size: 18px;
+  font-weight: 300;
+}
+.bl-btn{
+  margin: 50px 0px;
+  color: #FFFFFF;
+  background: darkblue;
+  padding: 22px;
+  font-weight: bold;
+  font-size: 21px;
+  border-radius: 12px;
+  max-width: fit-content;
+  cursor: pointer;
+}
+
+.title{
+  text-align: center;
+  margin: 150px;
+  font-size: 24px;
+}
+.table{
+
+}
+.table .trh{
+    color: darkblue;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.table .tr1{
+  background: powderblue;
+  color: darkblue;
+  font-weight: lighter;
+  font-size: 14px;
+}
+.table .trh th,
+.table .tr1 td{
+  padding: 24px;
+}
+.pic2{
+  width: -webkit-fill-available;
+}
+.our-service{
+  margin: 100px 0px;
+  padding: 40px 66px;
+  background: lightgray;
+}
+.stitle{
+  padding: 16px 0px;
+}
+.stext{
+  font-weight: lighter;
+  font-size: 14px;
+}
+.sImg{
+  padding-left: 76px;
+}
+.dig-exp{
+  margin: 20px;
+  text-align: center;
+  border-radius: 186px;
+  padding: 76px;
+  height: 166px;
+  box-shadow: 0 0 5px 5px aliceblue;
+}
+.cir-img{
+
+}
+.cir-text{
+  color: darkgreen;
+}
+.ta-center{
+  text-align: center;
+}
+.t2{
+  background: #FFF;
+  margin-right: 40px;
+  text-align: center;
+  padding: 36px;
+}
+.ot2{
+  margin-top: 18px;
+}
+.subline{
+  text-align: center;
+  color: forestgreen;
+  margin: 16px;
+}
+.car-img{
+  width: -webkit-fill-available;
+}
+.t3{
+  margin-left: 14px;
+}
+.th{
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+.tc{
+  margin-bottom: 6px;
+  font-weight: 100;
+}
+.con-banner{
+  color: #FFF;
+  margin-top: 80px;
+  font-weight: 100;
+  font-size: 24px;
+  background-color: mediumseagreen;
+  padding: 28px 82px;
+}
+.bl-btn2{
+  margin: 50px 0px;
+  color: mediumseagreen;
+  background: #FFF;
+  padding: 22px;
+  font-weight: bold;
+  font-size: 21px;
+  border-radius: 38px;
+  max-width: fit-content;
+  cursor: pointer;
+}
